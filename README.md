@@ -1,1 +1,1 @@
-# password-complexity-checker
+This script defines a function assess_password_strength() that takes a password as input and returns its strength level (weak, moderate, or strong). It uses various criteria to evaluate the password and assigns a score accordingly.
